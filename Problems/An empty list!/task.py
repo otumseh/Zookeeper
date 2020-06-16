@@ -1,0 +1,2 @@
+afta = []
+print(afta)
